@@ -1,0 +1,7 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "types": ["custom-functions-runtime", "office-js", "office-runtime", "jest", "node", "@testing-library/jest-dom"]
+  },
+  "include": ["**/*", "../src/**/*"]
+}

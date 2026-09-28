@@ -1,0 +1,1 @@
+export { computeFactorials } from "./client";
